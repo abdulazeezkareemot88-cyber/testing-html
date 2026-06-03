@@ -1,0 +1,20 @@
+body {
+    background-image:url('image-68121-800.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+p {
+color:blue;
+}
+button {
+    background-color:red;
+    color:white;
+    border-radius: 10%;
+
+}
